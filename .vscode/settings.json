@@ -1,0 +1,7 @@
+{
+    "idf.adapterTargetName": "esp32",
+    "files.associations": {
+        "esp_wifi.h": "c",
+        "sntp.h": "c"
+    }
+}
